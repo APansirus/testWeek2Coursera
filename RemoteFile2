@@ -1,0 +1,7 @@
+* created local firstbranch
+* made it even with RemoteBranch
+* pushed firstbranch to remote
+* made online a pull request to merge firstbranch with master
+*merged them
+* now remoteBranch was superfluos
+* new file to make it uneven with master again^^
